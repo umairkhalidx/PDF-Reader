@@ -8,5 +8,5 @@ Feels free to download and use this app, and ofcourse any contribution from the 
 
 Following are some UI images of the app
 
-<img src="https://github.com/umairkhalidx/PDF-Reader/assets/109782978/e0bf10de-3774-4275-af18-aa94566f0f9d" width=600 height=600>
+<img src="https://github.com/umairkhalidx/PDF-Reader/assets/109782978/e0bf10de-3774-4275-af18-aa94566f0f9d" width=500 height=600>
 
