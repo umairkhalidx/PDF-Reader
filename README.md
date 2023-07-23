@@ -4,7 +4,7 @@ Above is an App that was made in Android Studio using Kotlin and XML. THe main p
 
 To use the app on an Android device simply download the APK from the release. As this is an opensource project so feel free to download and install the files and folders in the repository that can be easily impoted into Android Studio form altering and implimenting additional functionalities. By the way the minimum API level that this app supports is 24.
 
-Feels free to download and use this app, and ofcourse any contribution from the public audience is alway highly appreciated so feel free to commit whenever you like :)
+Feels free to download and use this app, and ofcourse any contribution from the public audience is always highly appreciated so feel free to commit whenever you like :)
 
 Following are some UI images of the app
 
