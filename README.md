@@ -8,8 +8,5 @@ Feels free to download and use this app, and ofcourse any contribution from the 
 
 Following are some UI images of the app
 
-
-![Pdf1](https://github.com/umairkhalidx/PDF-Reader/assets/109782978/14f19a00-6945-484a-9b15-4c23e3a20234)
-
-![PDF2](https://github.com/umairkhalidx/PDF-Reader/assets/109782978/aa0ea87e-d199-4953-9906-b1c11e9a8116)
+<img src="https://github.com/umairkhalidx/PDF-Reader/assets/109782978/e0bf10de-3774-4275-af18-aa94566f0f9d">
 
